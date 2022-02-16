@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Sami Souabni's Website
+plugins:
+  - jemoji
